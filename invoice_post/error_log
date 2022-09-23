@@ -1,0 +1,6 @@
+[27-Dec-2021 10:20:25 UTC] PHP Notice:  Undefined variable: TotalServiceCharge in /home/besthote/public_html/amazoft.com/demo/resturent_management/invoice_post/update_product_minus.php on line 140
+[27-Dec-2021 10:20:25 UTC] PHP Notice:  Undefined variable: TotalDiscount in /home/besthote/public_html/amazoft.com/demo/resturent_management/invoice_post/update_product_minus.php on line 141
+[27-Dec-2021 10:20:25 UTC] PHP Notice:  Undefined variable: FullTotal in /home/besthote/public_html/amazoft.com/demo/resturent_management/invoice_post/update_product_minus.php on line 142
+[27-Dec-2021 10:21:48 UTC] PHP Notice:  Undefined variable: TotalServiceCharge in /home/besthote/public_html/amazoft.com/demo/resturent_management/invoice_post/update_product_minus.php on line 140
+[27-Dec-2021 10:21:48 UTC] PHP Notice:  Undefined variable: TotalDiscount in /home/besthote/public_html/amazoft.com/demo/resturent_management/invoice_post/update_product_minus.php on line 141
+[27-Dec-2021 10:21:48 UTC] PHP Notice:  Undefined variable: FullTotal in /home/besthote/public_html/amazoft.com/demo/resturent_management/invoice_post/update_product_minus.php on line 142
